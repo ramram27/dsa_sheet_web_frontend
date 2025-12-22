@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "preview": "vite preview --host --port 4173",
     "start": "next start",
     "lint": "eslint"
   },
